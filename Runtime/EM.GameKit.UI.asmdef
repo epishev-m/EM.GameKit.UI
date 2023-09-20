@@ -1,0 +1,31 @@
+{
+    "name": "EM.GameKit.UI",
+    "rootNamespace": "",
+    "references": [
+        "EM.Foundation",
+        "UniTask",
+        "UniTask.DOTween",
+        "EM.UI",
+        "MessagePack.Annotations",
+        "DOTween.Modules",
+        "EM.ProfileSystem",
+        "EM.BuildSystem",
+        "EM.Assistant",
+        "UniTask.TextMeshPro",
+        "Unity.TextMeshPro",
+        "Unity.ResourceManager",
+        "Unity.Addressables",
+        "UniTask.Addressables",
+        "EM.Configs",
+        "EM.GameKit"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
